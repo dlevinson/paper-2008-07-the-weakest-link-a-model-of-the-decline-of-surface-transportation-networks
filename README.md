@@ -47,7 +47,7 @@ This paper models transportation-network decline as an endogenous process arisin
 ## Optional Follow-Up
 
 - Runtime verification can be done after a Java runtime is installed.
-- Apply the repository license at upload time. The package contains author-created source and model inputs, not human-subjects data.
+- The repository license is recorded in `LICENSE.md`. The package contains author-created source and model inputs, not human-subjects data.
 
 Generated: 2026-05-13 10:01:40 AEST
 
@@ -59,5 +59,11 @@ Generated: 2026-05-21 20:04:48 AEST
 - Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- The repository license boundary is recorded in `LICENSE.md`.
 <!-- package-hardening-status:end -->
+
+## License
+
+See `LICENSE.md`. Author-created model code is MIT licensed; author-created
+model inputs and documentation are CC BY 4.0. Papers and third-party materials
+retain their original terms.
